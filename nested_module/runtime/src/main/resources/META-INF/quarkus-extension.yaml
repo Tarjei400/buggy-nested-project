@@ -1,0 +1,9 @@
+name: Config Driver Extension
+#description: Do something useful.
+metadata:
+  keywords:
+    - config-driver
+  guide: ...
+  categories:
+    - "miscellaneous"
+  status: "preview"
